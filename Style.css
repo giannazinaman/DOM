@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f7e9d7;
+  padding: 30px;}
+
+h1 {
+  color: #5a3e2b;}
+
+button {
+  background-color: #8b5e3c;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;}
+
+button:hover {
+  background-color: #6f472a;}
+
+#dogContainer {
+  margin-top: 25px;}
+
+#dogContainer img {
+  width: 300px;
+  max-width: 90%;
+  border-radius: 15px;
+  margin-top: 15px;}
